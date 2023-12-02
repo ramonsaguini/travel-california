@@ -89,10 +89,6 @@ font-weight: 400;
 letter-spacing: 5px;
 }
 
-/* space top */
-.space-top{
-  padding:40px;
-}
 /* Header */
 .header-st{
   background-image: url(../images/bg-img.png);
